@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585826922 source:c:\users\mikol\onedrive\desktop\studies\classes\computer programing\c-course\course sphere\advanced issues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
